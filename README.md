@@ -1,4 +1,4 @@
-# Deploy your Springboot application to AWS EC2
+# Spring Boot (Java) + maven (build) 
 
 ## Option 1 : How to run the application ?(locally)
 
@@ -75,6 +75,4 @@ Check your dockerhub repository for the image
 
 
 ### Deployment architecture
-
-![alt text](springboot-aws-deploy.png)
 
