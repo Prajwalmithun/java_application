@@ -74,5 +74,3 @@ Open your browser and go to http://localhost:8080
 Check your dockerhub repository for the image
 
 
-### Deployment architecture
-
