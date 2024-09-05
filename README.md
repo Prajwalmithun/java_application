@@ -57,7 +57,7 @@ Either Click on Code -> Open with Github Desktop (OR) run the following command 
 ### Step 3: Run the Docker Container
 
 ```
-# docker run -dit -p 8080:8080 java_application
+# docker run -dit -p 8080:8080 <DOCKERHUB_USERNAME>/java_application
 ```
 
 ### Step 4: Access the application
